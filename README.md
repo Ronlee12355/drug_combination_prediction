@@ -1,7 +1,5 @@
 # Publication
-[A Machine Learning Method for Drug Combination Prediction](https://doi.org/10.3389/fgene.2020.01000)  
-Jiang Li, Xin-Yu Tong, Li-Da Zhu* and Hong-Yu Zhang   
-DOI: 10.3389/fgene.2020.01000  
+Li J, Tong X-Y, Zhu L-D and Zhang H-Y (2020) A Machine Learning Method for Drug Combination Prediction. *Front. Genet.* 11:1000. doi: 10.3389/fgene.2020.01000   
 
 ## Data Description  
 This repo is created for paper review and data availability.  
