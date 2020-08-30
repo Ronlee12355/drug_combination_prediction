@@ -1,4 +1,5 @@
-# drug_combination_prediction
+# Publication
+[A Machine Learning Method for Drug Combination Prediction](https://doi.org/10.3389/fgene.2020.01000)
 
 ## Data Description  
 This repo is created for paper review.  
