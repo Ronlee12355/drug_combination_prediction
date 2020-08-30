@@ -4,7 +4,7 @@ Jiang Li, Xin-Yu Tong, Li-Da Zhu* and Hong-Yu Zhang
 DOI: 10.3389/fgene.2020.01000  
 
 ## Data Description  
-This repo is created for paper review.  
+This repo is created for paper review and data availability.  
 
 CID_606.txt: CID of 606 drugs crawled from PubChem.   
 drug_combiantion_matrix.txt: Drug combination profile (1 means positive, 0 means negative).     
